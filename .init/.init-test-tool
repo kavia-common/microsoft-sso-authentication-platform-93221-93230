@@ -1,0 +1,4 @@
+{
+    "command": "python manage.py test",
+    "working_directory": "/home/kavia/workspace/code-generation/microsoft-sso-authentication-platform-93221-93230/django_backend"
+}
